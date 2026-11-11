@@ -2,6 +2,238 @@
   "title": "Rolling Sink",
   "videos": [
     {
+      "id": "snowboarding",
+      "title": "Snowboarding",
+      "category": "action",
+      "prompt": "A dynamic snowboarding scene in the style of a high-energy action shot, featuring a young snowboarder accelerating down a powdery slope. The snowboarder, with a determined expression, weaves expertly between tall pine trees, their trunks partially obscured by the swirling snow. The snow is pristine and fluffy, with the sun casting soft shadows and highlighting the snowboarder's movements. The background showcases a breathtaking mountain vista, with peaks shrouded in mist and a few distant ski lifts visible. The camera angle captures the snowboarder from a slightly behind-the-action perspective, emphasizing their speed and agility.",
+      "duration": 300.905029,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4831,
+      "bytes": 38543377,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/snowboarding.mp4",
+      "poster": "assets/posters/snowboarding-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/snowboarding-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/snowboarding-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/snowboarding-290.webp"
+        }
+      ],
+      "sha256": "c7fcfd012e932bd3894edfad7866917e3dc72f22576e71644822f1ced7420e63"
+    },
+    {
+      "id": "choreographed-boxing",
+      "title": "Choreographed boxing",
+      "category": "action",
+      "prompt": "A high-energy choreographed fight performance on a minimalist stage: two performers in playful animal helmets and padded suits exchange fast, clean boxing sequences. The white-suited fighter with a blue spiky helmet presses forward with repeated jabs and feints; the blue-suited fighter with a red helmet pivots back and fires counters, both wearing oversized red gloves and chunky boots. The lighting is theatrical—bright key light from above with a soft rim light, creating strong silhouettes against a black background. The camera tracks laterally from left to right, keeping both fighters centered as they circle and reset.",
+      "duration": 300.901001,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4815,
+      "bytes": 38654059,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/choreographed-boxing.mp4",
+      "poster": "assets/posters/choreographed-boxing-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/choreographed-boxing-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/choreographed-boxing-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/choreographed-boxing-290.webp"
+        }
+      ],
+      "sha256": "80fe7039bf922455ad4f41ceffc355b98c28f65dc1b2230f55e4c05ed93b4c7a"
+    },
+    {
+      "id": "candlelight-creature",
+      "title": "Candlelight creature",
+      "category": "animation",
+      "prompt": "A close-up 3D animated scene of a short, fluffy monster kneeling beside a melting red candle. The monster has large, wide eyes and an open mouth, gazing at the flame with a look of wonder and curiosity. Its soft, fluffy fur contrasts with the warm, dramatic lighting that highlights every detail of its gentle, innocent expression. The pose conveys a sense of playfulness and exploration, as if the creature is discovering the world for the first time. The background features a cozy, warmly lit room with subtle hints of a fireplace and soft furnishings, enhancing the overall atmosphere. The use of warm colors and dramatic lighting creates a captivating and inviting scene.",
+      "duration": 300.895996,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4826,
+      "bytes": 38727676,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/candlelight-creature.mp4",
+      "poster": "assets/posters/candlelight-creature-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/candlelight-creature-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/candlelight-creature-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/candlelight-creature-290.webp"
+        }
+      ],
+      "sha256": "07bd3a7cdc1c69795d8d38cd92cd3944b7a354da8b63653e13ae97b91fdb0202"
+    },
+    {
+      "id": "speed-skater",
+      "title": "Speed skater",
+      "category": "action",
+      "prompt": "A high-energy action shot of a speed skater wearing a sleek navy skinsuit and a reflective silver visor, skating powerfully on an outdoor ice oval. The skater leans into repeated left-hand curves, blades carving thin white lines on the ice, with a steady cadence and consistent crossovers. Stadium lights and banners line the rink perimeter, and snowbanks frame the track with a distant treeline beyond. The camera follows from slightly behind at hip height, keeping the skater centered as the oval’s repetitive geometry supports long-duration continuity.",
+      "duration": 300.89801,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4824,
+      "bytes": 38638284,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/speed-skater.mp4",
+      "poster": "assets/posters/speed-skater-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/speed-skater-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/speed-skater-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/speed-skater-290.webp"
+        }
+      ],
+      "sha256": "8a6822d672a898669b46a9d0758285aaf1304f0450df5934fefb428f9c09e8e8"
+    },
+    {
+      "id": "wiping-the-counter",
+      "title": "Wiping the counter",
+      "category": "people",
+      "prompt": "A detailed realist photograph captures a middle-aged man methodically wiping down a kitchen counter with a clean, white cloth. His focused expression conveys determination as he ensures every surface is spotlessly clean. He stands upright, leaning slightly forward, with one hand gripping the edge of the counter and the other holding the cloth. The background features modern kitchen appliances and cabinets, with subtle reflections in the glass surfaces. Shadows cast by the overhead lights add depth to the scene. The photo has a crisp, clear texture. A medium shot from a slightly elevated angle, highlighting the man's dedication and the pristine cleanliness of the kitchen.",
+      "duration": 300.903015,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4816,
+      "bytes": 38682940,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/wiping-the-counter.mp4",
+      "poster": "assets/posters/wiping-the-counter-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/wiping-the-counter-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/wiping-the-counter-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/wiping-the-counter-290.webp"
+        }
+      ],
+      "sha256": "74e739f320d03e8073f89849c83d92598fdd4ea30d886d66ffdf97c0a2a70379"
+    },
+    {
+      "id": "surfing",
+      "title": "Surfing",
+      "category": "action",
+      "prompt": "A dynamic action shot of a surfer accelerating on a powerful wave, carving through the water with grace and agility. The surfer, with a tanned complexion and muscular build, rides the wave with one hand gripping the board while the other extends outwards for balance. The water splashes behind, creating a foamy trail, and the sun casts a golden glow over the scene. The background features a clear blue ocean and distant white-capped waves, with a few seagulls flying overhead. The surfer's expression is one of exhilaration and focus. A mid-shot from a low-angle perspective capturing the surfer's motion and the wave's power.",
+      "duration": 300.562012,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4822,
+      "bytes": 38728608,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/surfing.mp4",
+      "poster": "assets/posters/surfing-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/surfing-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/surfing-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/surfing-290.webp"
+        }
+      ],
+      "sha256": "b15afc5f0283b032104884fdbaf5ee6a6d9145f78e08b3ff6c5fdf23e830be69"
+    },
+    {
+      "id": "blue-parrot",
+      "title": "Blue parrot",
+      "category": "nature",
+      "prompt": "A close-up shot of a bright blue parrot's shimmering feathers, capturing the unique and vibrant colors in the light. The parrot's feathers glisten with a metallic sheen, showcasing a mix of deep indigos, vivid greens, and rich blues. Its eyes sparkle with curiosity, and it appears lively and alert, perched on a branch. The background is blurred, highlighting the parrot against a soft, warm environment. The photo has a naturalistic and lifelike quality, emphasizing the bird's detailed plumage and natural movements.",
+      "duration": 300.906006,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4815,
+      "bytes": 38684270,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/blue-parrot.mp4",
+      "poster": "assets/posters/blue-parrot-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/blue-parrot-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/blue-parrot-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/blue-parrot-290.webp"
+        }
+      ],
+      "sha256": "3c1f16303d857ae1e48c41923c407c56a25971b370ad4760ea20ffa2fab6b046"
+    },
+    {
+      "id": "mountain-drive",
+      "title": "Mountain drive",
+      "category": "action",
+      "prompt": "A dynamic shot from behind a white vintage SUV with a black roof rack as it speeds up a steep dirt road surrounded by towering redwood trees on a rugged mountain slope. Dust kicks up from its tires, and the sunlight shines on the SUV, casting a warm glow over the scene. The dirt road extend forward into the distance, with no other vehicles in sight. The trees on either side are dense redwoods, with patches of greenery scattered throughout. The dirt road is framed by steep hills and mountains, with a clear blue sky above and wispy clouds drifting by. The camera captures the vehicle from the rear, emphasizing its powerful and adventurous journey. The SUV drives straight forward the entire time: no left turn, no right turn, no swerving, no drifting, no lane change, minimal yaw rotation. The dirt road continues straight ahead with a fixed central vanishing point: no curves, no bends, no winding, the road does not deviate left or right at any moment. The camera remains centered directly behind the SUV, aligned with the road axis, with constant distance, constant height, fixed focal length, no zoom, no orbit, no pan.",
+      "duration": 300.557983,
+      "width": 832,
+      "height": 480,
+      "fps": 16,
+      "frames": 4833,
+      "bytes": 38773103,
+      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/mountain-drive.mp4",
+      "poster": "assets/posters/mountain-drive-000.webp",
+      "previews": [
+        {
+          "time": 0,
+          "src": "assets/posters/mountain-drive-000.webp"
+        },
+        {
+          "time": 150,
+          "src": "assets/posters/mountain-drive-150.webp"
+        },
+        {
+          "time": 290,
+          "src": "assets/posters/mountain-drive-290.webp"
+        }
+      ],
+      "sha256": "1e6d79817bd074f740d448bb30f2cffc41fee15df345453fd3466d53d3f8c02b"
+    },
+    {
       "id": "shoreline-rider",
       "title": "Shoreline rider",
       "category": "action",
@@ -116,64 +348,6 @@
         }
       ],
       "sha256": "b129e6dfd658464b1560766181b6d70abfc246263742ddd231d401d5272f64d6"
-    },
-    {
-      "id": "blue-parrot",
-      "title": "Blue parrot",
-      "category": "nature",
-      "prompt": "A close-up shot of a bright blue parrot's shimmering feathers, capturing the unique and vibrant colors in the light. The parrot's feathers glisten with a metallic sheen, showcasing a mix of deep indigos, vivid greens, and rich blues. Its eyes sparkle with curiosity, and it appears lively and alert, perched on a branch. The background is blurred, highlighting the parrot against a soft, warm environment. The photo has a naturalistic and lifelike quality, emphasizing the bird's detailed plumage and natural movements.",
-      "duration": 300.906006,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4815,
-      "bytes": 38684270,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/blue-parrot.mp4",
-      "poster": "assets/posters/blue-parrot-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/blue-parrot-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/blue-parrot-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/blue-parrot-290.webp"
-        }
-      ],
-      "sha256": "3c1f16303d857ae1e48c41923c407c56a25971b370ad4760ea20ffa2fab6b046"
-    },
-    {
-      "id": "speed-skater",
-      "title": "Speed skater",
-      "category": "action",
-      "prompt": "A high-energy action shot of a speed skater wearing a sleek navy skinsuit and a reflective silver visor, skating powerfully on an outdoor ice oval. The skater leans into repeated left-hand curves, blades carving thin white lines on the ice, with a steady cadence and consistent crossovers. Stadium lights and banners line the rink perimeter, and snowbanks frame the track with a distant treeline beyond. The camera follows from slightly behind at hip height, keeping the skater centered as the oval’s repetitive geometry supports long-duration continuity.",
-      "duration": 300.89801,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4824,
-      "bytes": 38638284,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/speed-skater.mp4",
-      "poster": "assets/posters/speed-skater-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/speed-skater-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/speed-skater-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/speed-skater-290.webp"
-        }
-      ],
-      "sha256": "8a6822d672a898669b46a9d0758285aaf1304f0450df5934fefb428f9c09e8e8"
     },
     {
       "id": "waterfall",
@@ -321,64 +495,6 @@
       "sha256": "34bf7398f89c4ea1cd76a6f298456db6e53003bdda0a82b890097c2caa1ad5f4"
     },
     {
-      "id": "candlelight-creature",
-      "title": "Candlelight creature",
-      "category": "animation",
-      "prompt": "A close-up 3D animated scene of a short, fluffy monster kneeling beside a melting red candle. The monster has large, wide eyes and an open mouth, gazing at the flame with a look of wonder and curiosity. Its soft, fluffy fur contrasts with the warm, dramatic lighting that highlights every detail of its gentle, innocent expression. The pose conveys a sense of playfulness and exploration, as if the creature is discovering the world for the first time. The background features a cozy, warmly lit room with subtle hints of a fireplace and soft furnishings, enhancing the overall atmosphere. The use of warm colors and dramatic lighting creates a captivating and inviting scene.",
-      "duration": 300.895996,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4826,
-      "bytes": 38727676,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/candlelight-creature.mp4",
-      "poster": "assets/posters/candlelight-creature-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/candlelight-creature-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/candlelight-creature-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/candlelight-creature-290.webp"
-        }
-      ],
-      "sha256": "07bd3a7cdc1c69795d8d38cd92cd3944b7a354da8b63653e13ae97b91fdb0202"
-    },
-    {
-      "id": "mountain-drive",
-      "title": "Mountain drive",
-      "category": "action",
-      "prompt": "A dynamic shot from behind a white vintage SUV with a black roof rack as it speeds up a steep dirt road surrounded by towering redwood trees on a rugged mountain slope. Dust kicks up from its tires, and the sunlight shines on the SUV, casting a warm glow over the scene. The dirt road extend forward into the distance, with no other vehicles in sight. The trees on either side are dense redwoods, with patches of greenery scattered throughout. The dirt road is framed by steep hills and mountains, with a clear blue sky above and wispy clouds drifting by. The camera captures the vehicle from the rear, emphasizing its powerful and adventurous journey. The SUV drives straight forward the entire time: no left turn, no right turn, no swerving, no drifting, no lane change, minimal yaw rotation. The dirt road continues straight ahead with a fixed central vanishing point: no curves, no bends, no winding, the road does not deviate left or right at any moment. The camera remains centered directly behind the SUV, aligned with the road axis, with constant distance, constant height, fixed focal length, no zoom, no orbit, no pan.",
-      "duration": 300.557983,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4833,
-      "bytes": 38773103,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/mountain-drive.mp4",
-      "poster": "assets/posters/mountain-drive-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/mountain-drive-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/mountain-drive-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/mountain-drive-290.webp"
-        }
-      ],
-      "sha256": "1e6d79817bd074f740d448bb30f2cffc41fee15df345453fd3466d53d3f8c02b"
-    },
-    {
       "id": "enchanted-forest",
       "title": "Enchanted forest",
       "category": "animation",
@@ -408,35 +524,6 @@
       "sha256": "eeb484ff55939ad77ce6e61d225490c76086928b08e775a2f466490c5b171f84"
     },
     {
-      "id": "surfing",
-      "title": "Surfing",
-      "category": "action",
-      "prompt": "A dynamic action shot of a surfer accelerating on a powerful wave, carving through the water with grace and agility. The surfer, with a tanned complexion and muscular build, rides the wave with one hand gripping the board while the other extends outwards for balance. The water splashes behind, creating a foamy trail, and the sun casts a golden glow over the scene. The background features a clear blue ocean and distant white-capped waves, with a few seagulls flying overhead. The surfer's expression is one of exhilaration and focus. A mid-shot from a low-angle perspective capturing the surfer's motion and the wave's power.",
-      "duration": 300.562012,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4822,
-      "bytes": 38728608,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/surfing.mp4",
-      "poster": "assets/posters/surfing-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/surfing-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/surfing-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/surfing-290.webp"
-        }
-      ],
-      "sha256": "b15afc5f0283b032104884fdbaf5ee6a6d9145f78e08b3ff6c5fdf23e830be69"
-    },
-    {
       "id": "red-race-car",
       "title": "Red race car",
       "category": "action",
@@ -464,64 +551,6 @@
         }
       ],
       "sha256": "f9eb9d1920c4bc8570b09646ec66454883cc87fbb1ba5973f6796c19feb34e01"
-    },
-    {
-      "id": "snowboarding",
-      "title": "Snowboarding",
-      "category": "action",
-      "prompt": "A dynamic snowboarding scene in the style of a high-energy action shot, featuring a young snowboarder accelerating down a powdery slope. The snowboarder, with a determined expression, weaves expertly between tall pine trees, their trunks partially obscured by the swirling snow. The snow is pristine and fluffy, with the sun casting soft shadows and highlighting the snowboarder's movements. The background showcases a breathtaking mountain vista, with peaks shrouded in mist and a few distant ski lifts visible. The camera angle captures the snowboarder from a slightly behind-the-action perspective, emphasizing their speed and agility.",
-      "duration": 300.905029,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4831,
-      "bytes": 38543377,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/snowboarding.mp4",
-      "poster": "assets/posters/snowboarding-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/snowboarding-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/snowboarding-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/snowboarding-290.webp"
-        }
-      ],
-      "sha256": "c7fcfd012e932bd3894edfad7866917e3dc72f22576e71644822f1ced7420e63"
-    },
-    {
-      "id": "choreographed-boxing",
-      "title": "Choreographed boxing",
-      "category": "action",
-      "prompt": "A high-energy choreographed fight performance on a minimalist stage: two performers in playful animal helmets and padded suits exchange fast, clean boxing sequences. The white-suited fighter with a blue spiky helmet presses forward with repeated jabs and feints; the blue-suited fighter with a red helmet pivots back and fires counters, both wearing oversized red gloves and chunky boots. The lighting is theatrical—bright key light from above with a soft rim light, creating strong silhouettes against a black background. The camera tracks laterally from left to right, keeping both fighters centered as they circle and reset.",
-      "duration": 300.901001,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4815,
-      "bytes": 38654059,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/choreographed-boxing.mp4",
-      "poster": "assets/posters/choreographed-boxing-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/choreographed-boxing-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/choreographed-boxing-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/choreographed-boxing-290.webp"
-        }
-      ],
-      "sha256": "80fe7039bf922455ad4f41ceffc355b98c28f65dc1b2230f55e4c05ed93b4c7a"
     },
     {
       "id": "wedding-dance",
@@ -609,35 +638,6 @@
         }
       ],
       "sha256": "90b060d9e4a4bc7db0b13ac5ee5b0279110f1892a185b078336b8a60f6a82620"
-    },
-    {
-      "id": "wiping-the-counter",
-      "title": "Wiping the counter",
-      "category": "people",
-      "prompt": "A detailed realist photograph captures a middle-aged man methodically wiping down a kitchen counter with a clean, white cloth. His focused expression conveys determination as he ensures every surface is spotlessly clean. He stands upright, leaning slightly forward, with one hand gripping the edge of the counter and the other holding the cloth. The background features modern kitchen appliances and cabinets, with subtle reflections in the glass surfaces. Shadows cast by the overhead lights add depth to the scene. The photo has a crisp, clear texture. A medium shot from a slightly elevated angle, highlighting the man's dedication and the pristine cleanliness of the kitchen.",
-      "duration": 300.903015,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4816,
-      "bytes": 38682940,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/wiping-the-counter.mp4",
-      "poster": "assets/posters/wiping-the-counter-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/wiping-the-counter-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/wiping-the-counter-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/wiping-the-counter-290.webp"
-        }
-      ],
-      "sha256": "74e739f320d03e8073f89849c83d92598fdd4ea30d886d66ffdf97c0a2a70379"
     },
     {
       "id": "underwater-drummer",
