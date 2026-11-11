@@ -1,10 +1,8 @@
-# Rolling Sink: Anonymous Video Supplement
+# Rolling Sink
 
-Supplementary videos for the ICLR 2027 rebuttal.
+An anonymous page containing 23 complete videos and their input prompts. Prompts are always visible. Videos autoplay silently when visible and pause offscreen; manually paused videos remain paused.
 
-The gallery contains 23 complete five-minute videos with their input prompts. Each player includes shortcuts to 00:00, 02:30, and 04:50. Search covers both video titles and prompts.
-
-This is a static site with no build dependencies, third-party scripts, analytics, or embedded social-media players.
+The site has no build dependencies, third-party scripts, or analytics.
 
 ```sh
 python3 -m http.server 8000
@@ -12,9 +10,11 @@ python3 -m http.server 8000
 
 Open `http://localhost:8000` to preview.
 
-- `index.html`: page and accessible video cards, including the complete prompts.
-- `assets/style.css` and `assets/app.js`: layout, search, filters, and video viewer.
-- `assets/posters/`: frames sampled from the corresponding videos.
-- `videos.json`: video catalog, complete prompts, and checksums of the delivered MP4 files.
+- `index.html`: videos and complete prompts.
+- `assets/style.css`: responsive layout.
+- `assets/app.js`: viewport loading and autoplay.
+- `assets/nojs.css`: native video fallback when JavaScript is disabled.
+- `assets/posters/`: preview frames.
+- `videos.json`: catalog and video checksums.
 
 The video image data, frame timing, and duration are preserved. MP4 headers have been moved to the start for seeking, and creation metadata has been removed. Media URLs and filenames use anonymous paths. Keep account credentials and private source-provenance records outside this repository.
