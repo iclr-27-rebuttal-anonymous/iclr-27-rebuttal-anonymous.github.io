@@ -1,6 +1,6 @@
 # Rolling Sink
 
-An anonymous page containing 23 complete videos and their input prompts. Prompts are always visible. Videos autoplay silently when visible and pause offscreen; manually paused videos remain paused.
+An anonymous page containing 21 complete videos and their input prompts. Prompts are always visible. Videos autoplay silently when visible and pause offscreen; manually paused videos remain paused.
 
 The site has no build dependencies, third-party scripts, or analytics.
 

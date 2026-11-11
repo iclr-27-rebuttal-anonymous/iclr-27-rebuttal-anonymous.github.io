@@ -408,35 +408,6 @@
       "sha256": "194c8822a3ca20e2eb9f2fcf1bdb192b025438ce4c52339128c280c3d0d6a241"
     },
     {
-      "id": "golden-retriever",
-      "title": "Golden retriever",
-      "category": "action",
-      "prompt": "A dynamic action shot in the style of a high-energy sports magazine spread, featuring a golden retriever sprinting with all its might after a red sports car speeding down the road. The dog's fur glistens in the sunlight, and its eyes are filled with determination and excitement. It leaps forward, its tail wagging wildly, while the car speeds away in the background, leaving a trail of dust. The background shows a busy city street with blurred cars and pedestrians, adding to the sense of urgency. The photo has a crisp, vibrant color palette and a high-resolution quality. A medium-long shot capturing the dog's full run.",
-      "duration": 300.903992,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4820,
-      "bytes": 38728620,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/golden-retriever.mp4",
-      "poster": "assets/posters/golden-retriever-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/golden-retriever-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/golden-retriever-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/golden-retriever-290.webp"
-        }
-      ],
-      "sha256": "61f33a4ec9bb564a3bbf67b11f1fdff78333f5975f589d542311ee2bb202ad8c"
-    },
-    {
       "id": "marathon-runner",
       "title": "Marathon runner",
       "category": "action",
@@ -493,35 +464,6 @@
         }
       ],
       "sha256": "34bf7398f89c4ea1cd76a6f298456db6e53003bdda0a82b890097c2caa1ad5f4"
-    },
-    {
-      "id": "enchanted-forest",
-      "title": "Enchanted forest",
-      "category": "animation",
-      "prompt": "A 3D animation of a small, round, fluffy creature with big, expressive eyes exploring a vibrant, enchanted forest. The creature, a whimsical blend of a rabbit and a squirrel, has soft blue fur. It hops along a sparkling stream, its eyes wide with wonder. The forest is alive with magical elements: flowers that glow and change colors, trees with leaves in shades of purple and silver, and small floating lights that resemble fireflies. The creature stops to interact playfully with a group of tiny, fairy-like beings dancing around a mushroom ring The scene is rendered in a detailed, fantasy style, with a soft, ethereal lighting that enhances the enchantment. The camera follows the creature as it slowly moves, capturing its playful interactions and the magical ambiance of the forest. The creature is always facing to the camera.",
-      "duration": 300.559021,
-      "width": 832,
-      "height": 480,
-      "fps": 16,
-      "frames": 4833,
-      "bytes": 38791108,
-      "src": "https://phidias.s3.us-west-2.amazonaws.com/anonymous/iclr-27/rolling-sink/20261111/enchanted-forest.mp4",
-      "poster": "assets/posters/enchanted-forest-000.webp",
-      "previews": [
-        {
-          "time": 0,
-          "src": "assets/posters/enchanted-forest-000.webp"
-        },
-        {
-          "time": 150,
-          "src": "assets/posters/enchanted-forest-150.webp"
-        },
-        {
-          "time": 290,
-          "src": "assets/posters/enchanted-forest-290.webp"
-        }
-      ],
-      "sha256": "eeb484ff55939ad77ce6e61d225490c76086928b08e775a2f466490c5b171f84"
     },
     {
       "id": "red-race-car",
